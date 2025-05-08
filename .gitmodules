@@ -1,0 +1,3 @@
+[submodule "WaypointNav/Glider_Waypoint_Navigation_Heading_Control"]
+	path = WaypointNav/Glider_Waypoint_Navigation_Heading_Control
+	url = https://github.com/SOARLabOSU/Glider_Waypoint_Navigation_Heading_Control.git
